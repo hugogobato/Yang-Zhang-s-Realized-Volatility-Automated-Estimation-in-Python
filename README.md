@@ -2,7 +2,7 @@
 This software automatizes the estimation of Yang &amp; Zhang's RV proxy for financial securities
 
 # Content
-The Python Code named as Yang_Zhang_RV_proxy.py estimates Yang & Zhang's Realized Volatility from high-frequency intraday stock data. It contains four functions: Yang_Zhang_RV_yahoo, Yang_Zhang_RV_own_data, Multivariate_Yang_Zhang_RV_own_data, and Multivariate_Yang_Zhang_RV_yahoo. The functions containing 'yahoo' in their name make use of Yahoo Finance's API through the Python library yfinance. Additionally, in the folder Examples, examples of the code use can be found for univariate and multivariate data with common mistakes made when using the code.
+The Python Code named as Yang_Zhang_RV_proxy.py estimates Yang & Zhang's Realized Volatility from high-frequency intraday stock data. It contains four functions: Yang_Zhang_RV_yahoo, Yang_Zhang_RV_own_data, Multivariate_Yang_Zhang_RV_own_data, and Multivariate_Yang_Zhang_RV_yahoo. The functions containing 'yahoo' in their name make use of Yahoo Finance's API through the Python library yfinance. Additionally, in the folder Examples, examples in Jupyter Notebooks of the code use can be found for univariate and multivariate data with common mistakes made when using the code.
 
 # Functions Description
 Yang_Zhang_RV_yahoo(tickers, start=None, end=None, period=None, interval=None)

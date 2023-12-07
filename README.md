@@ -30,7 +30,7 @@ Semi-optional parameters: start = date from when the data extraction should star
 @authors: Hugo Gobato Souto* and Amir Moradi**
 
 *International School of Business at HAN University of Applied Sciences, Ruitenberglaan 31, 
-6826 CC Arnhem, the Netherlands; H.GobatoSouto@han.nl; https://orcid.org/0000-0002-7039-0572
+6826 CC Arnhem, the Netherlands; hugo.gobatosouto@han.nl; https://orcid.org/0000-0002-7039-0572
 
 Contact author.
 **International School of Business at HAN University of Applied Sciences, Ruitenberglaan 31, 
